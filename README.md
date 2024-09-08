@@ -10,7 +10,20 @@ This project demonstrates different approaches to building forms in React. It in
 
 ## Project Structure
 
-src/ ├── components/ │ └── SimpleForm.tsx │ └── ReactForm.tsx │ └── ShadcnForm.tsx ├── hooks/ │ └── use-toast.ts ├── pages/ │ └── simpleForm.tsx │ └── reactForm.tsx │ └── shadcnForm.tsx └── App.tsx
+```bash
+src/
+├── components/
+│   ├── SimpleForm.tsx
+│   ├── ReactForm.tsx
+│   └── ShadcnForm.tsx
+├── hooks/
+│   └── use-toast.ts
+├── pages/
+│   ├── simpleForm.tsx
+│   ├── reactForm.tsx
+│   └── shadcnForm.tsx
+└── App.tsx
+```
 
 ### 1. Simple Form (`/simpleForm`)
 
@@ -39,5 +52,5 @@ To get started with this project, clone the repository and install the dependenc
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-repo/form-demo.git
+   git clone https://github.com/sutarrohit/Form-Implementation
    ```
